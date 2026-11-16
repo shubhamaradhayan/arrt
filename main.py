@@ -351,5 +351,5 @@ finally:
         driver.listen.stop()
     except Exception:
         pass
-    input("Press Enter to close browser...")
+    # input("Press Enter to close browser...")
     driver.quit()
