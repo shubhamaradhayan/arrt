@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+details.json
+details.csv
+failed.json
